@@ -22,8 +22,8 @@ int main() {
         // ќтображение текущих значений
         cout << "Target position: " << targetPosition << endl;
         cout << "Cannon position: " << cannonPosition << endl;
-        cout << "Current angle: " << angle << endl;
-        cout << "Current power: " << power << endl << endl;
+        cout << "UGOL: " << angle << endl;
+        cout << "SILA: " << power << endl << endl;
 
         // «апрос параметров выстрела от пользовател€
         cout << "Enter cannon angle (0 - 90 degrees): ";
